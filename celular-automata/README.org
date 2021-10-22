@@ -1,4 +1,5 @@
 * Celular-Automata 
+The implementation of the simple rules.
 
 ** Usage
 
