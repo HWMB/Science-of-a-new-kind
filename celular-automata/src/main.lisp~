@@ -1,0 +1,5 @@
+(defpackage celular-automata
+  (:use :cl))
+(in-package :celular-automata)
+
+;; blah blah blah.
